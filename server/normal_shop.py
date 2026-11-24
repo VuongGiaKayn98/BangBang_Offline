@@ -194,10 +194,14 @@ def _available(db, source):
     for key, row in source['rewards'].items():
         if key.startswith('item:') and str(row['id']) in source['boxes']:
             item = items.get(row['id'], {})
-            if (int(item.get('nType') or 0) not in (20, 27)
-                    or int(item.get('nContType') or 0) != row.get('container')
-                    or int(item.get('iStackMax') or 0) != row.get('stack_max')
-                    or int(item.get('nAutoUse') or 0)):
+            ntype = int(item.get('nType') or 0)
+            ncont = int(item.get('nContType') or 0)
+            stack = int(item.get('iStackMax') or 0)
+            autouse = int(item.get('nAutoUse') or 0)
+            if (ntype not in (20, 27, 69)
+                    or ncont != row.get('container')
+                    or stack != row.get('stack_max')
+                    or (autouse and ntype not in (69,))):
                 raise RewardError('catalog_mismatch', 'Hộp không khớp dữ liệu gốc hiện tại; chưa thay đổi gì.')
             result[key] = row
         elif key in current:

@@ -104,7 +104,21 @@ def shop_query(qs):
     except Exception:
         offers = []
 
-    matching = [o for o in offers if o.get('tab') == gt]
+    if gt == 1:
+        seen = set()
+        matching = [o for o in offers if (o.get('tab') == 1 or o.get('is_hot') or o.get('is_new')) and not (o['goodsId'] in seen or seen.add(o['goodsId']))]
+    elif gt == 2:
+        seen = set()
+        matching = [o for o in offers if (o.get('grantKind') == 'tank' or o.get('tab') == 2) and not (o['goodsId'] in seen or seen.add(o['goodsId']))]
+    elif gt == 6:
+        seen = set()
+        matching = [o for o in offers if (o.get('grantKind') == 'item' or o.get('tab') in (1, 4, 6)) and o.get('grantKind') != 'tank' and not (o['goodsId'] in seen or seen.add(o['goodsId']))]
+    elif gt == 7:
+        matching = [o for o in offers if o.get('tab') == 5]
+    elif gt == 8:
+        matching = [o for o in offers if o.get('tab') == 6]
+    else:
+        matching = [o for o in offers if o.get('tab') == gt]
     if st == 3:
         filtered = [o for o in matching if any(p.get('coinType') == 3 for p in o.get('payments', [])) or o.get('canUseGift')]
         if filtered:
@@ -255,7 +269,10 @@ def apply(state, mid, payload, db):
 
                     from storage_import import garage_payload
                     records = [json.loads(r[0]) for r in db.execute('SELECT data FROM garage WHERE profile_id=? ORDER BY ordinal', (char_id,))]
-                    trailer = bytes.fromhex(storage.setting('garage_trailer'))
+                    try:
+                        trailer = bytes.fromhex(json.loads(storage.setting('garage_trailer')))
+                    except Exception:
+                        trailer = b'\x01\x00\x00\x00'
                     garage_pkt = (1150, garage_payload(records, trailer))
                     wallet_pkt = (1039, struct.pack('<HH6i', 2, 0, *profile['currency']))
                     tip_pkt = tip(mid, f"Mua thành công tank {offer['name']}!")
