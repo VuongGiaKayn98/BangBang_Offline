@@ -36,6 +36,7 @@ import {isPveMap} from './m81314_protocol.js';
 import {isWorldBossScene,WORLD_BOSS_MAP} from './m81330_protocol.js';
 import {drawWorldBossHud} from './m81330_worldboss_hud.js';
 import {nativeSequenceAdditive} from './m81332_visual_fixes.js';
+import {BattleScoreboard} from './battle_scoreboard.js';
 
 const $ = id => document.getElementById(id);
 const clamp = (value, low, high) => Math.max(low, Math.min(high, value));
@@ -118,6 +119,11 @@ export class BattleView {
     this.input = new BattleInput({canvas: this.canvas, client,
       worldPoint: (x, y) => this.worldPoint(x, y), getGeometry: () => this.geometry,
       onMessage: text => this.message(text)});
+    this.scoreboard = new BattleScoreboard({host: $('battle-stage') || $('battle-panel') || document.body});
+    this.input.onToggleScoreboard = (force) => {
+      this.scoreboard.toggle(force, this.client.combat, this.prepared?.catalog);
+      return this.scoreboard.visible;
+    };
     this.postmatch = new M86Postmatch({host: $('battle-stage'), client,
       releaseInput: () => this.input.releaseAll(),
       playSound: (resource, position, options) => this.playSound(resource, position, options)});
@@ -1144,6 +1150,9 @@ export class BattleView {
   }
 
   drawHud(state, self, now) {
+    if (this.scoreboard?.visible) {
+      this.scoreboard.update(state, this.prepared?.catalog);
+    }
     if (this.roboActive) {
       const input = this.input.snapshot(), clock = serverTimeAt(state, now);
       const room=this.client.state.play.room,practice=Number(state.mapId)===7&&isPracticeRoom(room);
@@ -1228,6 +1237,7 @@ export class BattleView {
   drawResult(state) {
     const first = !this.resultSeen;
     this.resultSeen = state.result; this.input.releaseAll();
+    this.scoreboard?.toggle(false);
     $('battle-result').hidden = true;
     if (first) this.audio.stopAll();
     this.postmatch.show(state);

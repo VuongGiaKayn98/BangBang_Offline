@@ -5664,6 +5664,1409 @@
       "autoUse": false,
       "available": true,
       "boxId": 2005025
+    },
+    {
+      "goodsId": 902000073,
+      "itemId": 10000073,
+      "tab": 2,
+      "grantKind": "tank",
+      "name": "Baymax",
+      "description": "Chiến binh hộ vệ công nghệ cao",
+      "icon": {
+        "url": "/rez/zh_CN/avatar/micro/abb38b228abbd1213055168a48a0b889.png",
+        "width": 24,
+        "height": 24,
+        "sha256": "b0e6c9513daac843f5f6e19f2d1f63ea1113dc775157bed84c2a9ab88fe967de"
+      },
+      "containerType": 0,
+      "maxCount": 1,
+      "payments": [
+        {
+          "key": "primary",
+          "coinType": 1,
+          "price": 599,
+          "quantity": 1
+        },
+        {
+          "key": "alternate",
+          "coinType": 2,
+          "price": 150000,
+          "quantity": 1
+        }
+      ],
+      "canUseGift": true,
+      "autoUse": false,
+      "available": true
+    },
+    {
+      "goodsId": 902000077,
+      "itemId": 10000077,
+      "tab": 2,
+      "grantKind": "tank",
+      "name": "Zoro",
+      "description": "Kiếm sĩ tam kiếm phái",
+      "icon": {
+        "url": "/rez/zh_CN/avatar/micro/abb38b228abbd1213055168a48a0b889.png",
+        "width": 24,
+        "height": 24,
+        "sha256": "b0e6c9513daac843f5f6e19f2d1f63ea1113dc775157bed84c2a9ab88fe967de"
+      },
+      "containerType": 0,
+      "maxCount": 1,
+      "payments": [
+        {
+          "key": "primary",
+          "coinType": 1,
+          "price": 599,
+          "quantity": 1
+        },
+        {
+          "key": "alternate",
+          "coinType": 2,
+          "price": 150000,
+          "quantity": 1
+        }
+      ],
+      "canUseGift": true,
+      "autoUse": false,
+      "available": true
+    },
+    {
+      "goodsId": 902000078,
+      "itemId": 10000078,
+      "tab": 2,
+      "grantKind": "tank",
+      "name": "Mikasa",
+      "description": "Chiến binh quả cảm tốc độ cao",
+      "icon": {
+        "url": "/rez/zh_CN/avatar/micro/abb38b228abbd1213055168a48a0b889.png",
+        "width": 24,
+        "height": 24,
+        "sha256": "b0e6c9513daac843f5f6e19f2d1f63ea1113dc775157bed84c2a9ab88fe967de"
+      },
+      "containerType": 0,
+      "maxCount": 1,
+      "payments": [
+        {
+          "key": "primary",
+          "coinType": 1,
+          "price": 599,
+          "quantity": 1
+        },
+        {
+          "key": "alternate",
+          "coinType": 2,
+          "price": 150000,
+          "quantity": 1
+        }
+      ],
+      "canUseGift": true,
+      "autoUse": false,
+      "available": true
+    },
+    {
+      "goodsId": 902000080,
+      "itemId": 10000080,
+      "tab": 2,
+      "grantKind": "tank",
+      "name": "Doraemon",
+      "description": "Mèo máy với bảo bối thần kỳ",
+      "icon": {
+        "url": "/rez/zh_CN/avatar/micro/abb38b228abbd1213055168a48a0b889.png",
+        "width": 24,
+        "height": 24,
+        "sha256": "b0e6c9513daac843f5f6e19f2d1f63ea1113dc775157bed84c2a9ab88fe967de"
+      },
+      "containerType": 0,
+      "maxCount": 1,
+      "payments": [
+        {
+          "key": "primary",
+          "coinType": 1,
+          "price": 699,
+          "quantity": 1
+        },
+        {
+          "key": "alternate",
+          "coinType": 2,
+          "price": 200000,
+          "quantity": 1
+        }
+      ],
+      "canUseGift": true,
+      "autoUse": false,
+      "available": true
+    },
+    {
+      "goodsId": 902000096,
+      "itemId": 10000096,
+      "tab": 2,
+      "grantKind": "tank",
+      "name": "Kirito",
+      "description": "Hắc kiếm sĩ song kiếm tuyệt kỹ",
+      "icon": {
+        "url": "/rez/zh_CN/avatar/micro/abb38b228abbd1213055168a48a0b889.png",
+        "width": 24,
+        "height": 24,
+        "sha256": "b0e6c9513daac843f5f6e19f2d1f63ea1113dc775157bed84c2a9ab88fe967de"
+      },
+      "containerType": 0,
+      "maxCount": 1,
+      "payments": [
+        {
+          "key": "primary",
+          "coinType": 1,
+          "price": 699,
+          "quantity": 1
+        },
+        {
+          "key": "alternate",
+          "coinType": 2,
+          "price": 200000,
+          "quantity": 1
+        }
+      ],
+      "canUseGift": true,
+      "autoUse": false,
+      "available": true
+    },
+    {
+      "goodsId": 902000102,
+      "itemId": 10000102,
+      "tab": 2,
+      "grantKind": "tank",
+      "name": "Saitama",
+      "description": "Anh hùng một đấm siêu cấp",
+      "icon": {
+        "url": "/rez/zh_CN/avatar/micro/abb38b228abbd1213055168a48a0b889.png",
+        "width": 24,
+        "height": 24,
+        "sha256": "b0e6c9513daac843f5f6e19f2d1f63ea1113dc775157bed84c2a9ab88fe967de"
+      },
+      "containerType": 0,
+      "maxCount": 1,
+      "payments": [
+        {
+          "key": "primary",
+          "coinType": 1,
+          "price": 799,
+          "quantity": 1
+        },
+        {
+          "key": "alternate",
+          "coinType": 2,
+          "price": 250000,
+          "quantity": 1
+        }
+      ],
+      "canUseGift": true,
+      "autoUse": false,
+      "available": true
+    },
+    {
+      "goodsId": 902000093,
+      "itemId": 10000093,
+      "tab": 2,
+      "grantKind": "tank",
+      "name": "Sasuke",
+      "description": "Nhẫn thuật lôi độn và Sharingan",
+      "icon": {
+        "url": "/rez/zh_CN/avatar/micro/abb38b228abbd1213055168a48a0b889.png",
+        "width": 24,
+        "height": 24,
+        "sha256": "b0e6c9513daac843f5f6e19f2d1f63ea1113dc775157bed84c2a9ab88fe967de"
+      },
+      "containerType": 0,
+      "maxCount": 1,
+      "payments": [
+        {
+          "key": "primary",
+          "coinType": 1,
+          "price": 699,
+          "quantity": 1
+        },
+        {
+          "key": "alternate",
+          "coinType": 2,
+          "price": 200000,
+          "quantity": 1
+        }
+      ],
+      "canUseGift": true,
+      "autoUse": false,
+      "available": true
+    },
+    {
+      "goodsId": 902000095,
+      "itemId": 10000095,
+      "tab": 2,
+      "grantKind": "tank",
+      "name": "Kurumi",
+      "description": "Pháo thủ kiểm soát thời gian",
+      "icon": {
+        "url": "/rez/zh_CN/avatar/micro/abb38b228abbd1213055168a48a0b889.png",
+        "width": 24,
+        "height": 24,
+        "sha256": "b0e6c9513daac843f5f6e19f2d1f63ea1113dc775157bed84c2a9ab88fe967de"
+      },
+      "containerType": 0,
+      "maxCount": 1,
+      "payments": [
+        {
+          "key": "primary",
+          "coinType": 1,
+          "price": 699,
+          "quantity": 1
+        },
+        {
+          "key": "alternate",
+          "coinType": 2,
+          "price": 200000,
+          "quantity": 1
+        }
+      ],
+      "canUseGift": true,
+      "autoUse": false,
+      "available": true
+    },
+    {
+      "goodsId": 902000082,
+      "itemId": 10000082,
+      "tab": 2,
+      "grantKind": "tank",
+      "name": "Na Tra",
+      "description": "Tam thái tử hỏa tiêm thương",
+      "icon": {
+        "url": "/rez/zh_CN/avatar/micro/abb38b228abbd1213055168a48a0b889.png",
+        "width": 24,
+        "height": 24,
+        "sha256": "b0e6c9513daac843f5f6e19f2d1f63ea1113dc775157bed84c2a9ab88fe967de"
+      },
+      "containerType": 0,
+      "maxCount": 1,
+      "payments": [
+        {
+          "key": "primary",
+          "coinType": 1,
+          "price": 599,
+          "quantity": 1
+        },
+        {
+          "key": "alternate",
+          "coinType": 2,
+          "price": 150000,
+          "quantity": 1
+        }
+      ],
+      "canUseGift": true,
+      "autoUse": false,
+      "available": true
+    },
+    {
+      "goodsId": 902000083,
+      "itemId": 10000083,
+      "tab": 2,
+      "grantKind": "tank",
+      "name": "Doctor Strange",
+      "description": "Phù thủy tối thượng ma thuật đa chiều",
+      "icon": {
+        "url": "/rez/zh_CN/avatar/micro/abb38b228abbd1213055168a48a0b889.png",
+        "width": 24,
+        "height": 24,
+        "sha256": "b0e6c9513daac843f5f6e19f2d1f63ea1113dc775157bed84c2a9ab88fe967de"
+      },
+      "containerType": 0,
+      "maxCount": 1,
+      "payments": [
+        {
+          "key": "primary",
+          "coinType": 1,
+          "price": 699,
+          "quantity": 1
+        },
+        {
+          "key": "alternate",
+          "coinType": 2,
+          "price": 200000,
+          "quantity": 1
+        }
+      ],
+      "canUseGift": true,
+      "autoUse": false,
+      "available": true
+    },
+    {
+      "goodsId": 902000090,
+      "itemId": 10000090,
+      "tab": 2,
+      "grantKind": "tank",
+      "name": "Natsu",
+      "description": "Hỏa long ma đạo sĩ",
+      "icon": {
+        "url": "/rez/zh_CN/avatar/micro/abb38b228abbd1213055168a48a0b889.png",
+        "width": 24,
+        "height": 24,
+        "sha256": "b0e6c9513daac843f5f6e19f2d1f63ea1113dc775157bed84c2a9ab88fe967de"
+      },
+      "containerType": 0,
+      "maxCount": 1,
+      "payments": [
+        {
+          "key": "primary",
+          "coinType": 1,
+          "price": 599,
+          "quantity": 1
+        },
+        {
+          "key": "alternate",
+          "coinType": 2,
+          "price": 150000,
+          "quantity": 1
+        }
+      ],
+      "canUseGift": true,
+      "autoUse": false,
+      "available": true
+    },
+    {
+      "goodsId": 902000051,
+      "itemId": 10000051,
+      "tab": 2,
+      "grantKind": "tank",
+      "name": "Sơn Tinh",
+      "description": "Chúa tể non cao dời non lấp biển",
+      "icon": {
+        "url": "/rez/zh_CN/avatar/micro/abb38b228abbd1213055168a48a0b889.png",
+        "width": 24,
+        "height": 24,
+        "sha256": "b0e6c9513daac843f5f6e19f2d1f63ea1113dc775157bed84c2a9ab88fe967de"
+      },
+      "containerType": 0,
+      "maxCount": 1,
+      "payments": [
+        {
+          "key": "primary",
+          "coinType": 1,
+          "price": 499,
+          "quantity": 1
+        },
+        {
+          "key": "alternate",
+          "coinType": 2,
+          "price": 120000,
+          "quantity": 1
+        }
+      ],
+      "canUseGift": true,
+      "autoUse": false,
+      "available": true
+    },
+    {
+      "goodsId": 902000079,
+      "itemId": 10000079,
+      "tab": 2,
+      "grantKind": "tank",
+      "name": "Thủy Tinh",
+      "description": "Chúa tể biển sâu dâng nước hô mưa",
+      "icon": {
+        "url": "/rez/zh_CN/avatar/micro/abb38b228abbd1213055168a48a0b889.png",
+        "width": 24,
+        "height": 24,
+        "sha256": "b0e6c9513daac843f5f6e19f2d1f63ea1113dc775157bed84c2a9ab88fe967de"
+      },
+      "containerType": 0,
+      "maxCount": 1,
+      "payments": [
+        {
+          "key": "primary",
+          "coinType": 1,
+          "price": 499,
+          "quantity": 1
+        },
+        {
+          "key": "alternate",
+          "coinType": 2,
+          "price": 120000,
+          "quantity": 1
+        }
+      ],
+      "canUseGift": true,
+      "autoUse": false,
+      "available": true
+    },
+    {
+      "goodsId": 902000043,
+      "itemId": 10000043,
+      "tab": 2,
+      "grantKind": "tank",
+      "name": "Thánh Gióng",
+      "description": "Anh hùng làng Gióng cưỡi ngựa sắt",
+      "icon": {
+        "url": "/rez/zh_CN/avatar/micro/abb38b228abbd1213055168a48a0b889.png",
+        "width": 24,
+        "height": 24,
+        "sha256": "b0e6c9513daac843f5f6e19f2d1f63ea1113dc775157bed84c2a9ab88fe967de"
+      },
+      "containerType": 0,
+      "maxCount": 1,
+      "payments": [
+        {
+          "key": "primary",
+          "coinType": 1,
+          "price": 599,
+          "quantity": 1
+        },
+        {
+          "key": "alternate",
+          "coinType": 2,
+          "price": 150000,
+          "quantity": 1
+        }
+      ],
+      "canUseGift": true,
+      "autoUse": false,
+      "available": true
+    },
+    {
+      "goodsId": 902000039,
+      "itemId": 10000039,
+      "tab": 2,
+      "grantKind": "tank",
+      "name": "Thor",
+      "description": "Thần sấm sét với búa Mjolnir",
+      "icon": {
+        "url": "/rez/zh_CN/avatar/micro/abb38b228abbd1213055168a48a0b889.png",
+        "width": 24,
+        "height": 24,
+        "sha256": "b0e6c9513daac843f5f6e19f2d1f63ea1113dc775157bed84c2a9ab88fe967de"
+      },
+      "containerType": 0,
+      "maxCount": 1,
+      "payments": [
+        {
+          "key": "primary",
+          "coinType": 1,
+          "price": 499,
+          "quantity": 1
+        },
+        {
+          "key": "alternate",
+          "coinType": 2,
+          "price": 120000,
+          "quantity": 1
+        }
+      ],
+      "canUseGift": true,
+      "autoUse": false,
+      "available": true
+    },
+    {
+      "goodsId": 902000042,
+      "itemId": 10000042,
+      "tab": 2,
+      "grantKind": "tank",
+      "name": "Songoku",
+      "description": "Siêu Saiyan năng lượng bùng nổ",
+      "icon": {
+        "url": "/rez/zh_CN/avatar/micro/abb38b228abbd1213055168a48a0b889.png",
+        "width": 24,
+        "height": 24,
+        "sha256": "b0e6c9513daac843f5f6e19f2d1f63ea1113dc775157bed84c2a9ab88fe967de"
+      },
+      "containerType": 0,
+      "maxCount": 1,
+      "payments": [
+        {
+          "key": "primary",
+          "coinType": 1,
+          "price": 699,
+          "quantity": 1
+        },
+        {
+          "key": "alternate",
+          "coinType": 2,
+          "price": 200000,
+          "quantity": 1
+        }
+      ],
+      "canUseGift": true,
+      "autoUse": false,
+      "available": true
+    },
+    {
+      "goodsId": 902000044,
+      "itemId": 10000044,
+      "tab": 2,
+      "grantKind": "tank",
+      "name": "Naruto",
+      "description": "Hokage đệ thất cửu vĩ hồ ly",
+      "icon": {
+        "url": "/rez/zh_CN/avatar/micro/abb38b228abbd1213055168a48a0b889.png",
+        "width": 24,
+        "height": 24,
+        "sha256": "b0e6c9513daac843f5f6e19f2d1f63ea1113dc775157bed84c2a9ab88fe967de"
+      },
+      "containerType": 0,
+      "maxCount": 1,
+      "payments": [
+        {
+          "key": "primary",
+          "coinType": 1,
+          "price": 699,
+          "quantity": 1
+        },
+        {
+          "key": "alternate",
+          "coinType": 2,
+          "price": 200000,
+          "quantity": 1
+        }
+      ],
+      "canUseGift": true,
+      "autoUse": false,
+      "available": true
+    },
+    {
+      "goodsId": 902000046,
+      "itemId": 10000046,
+      "tab": 2,
+      "grantKind": "tank",
+      "name": "Luffy",
+      "description": "Thuyền trưởng Mũ Rơm cao su",
+      "icon": {
+        "url": "/rez/zh_CN/avatar/micro/abb38b228abbd1213055168a48a0b889.png",
+        "width": 24,
+        "height": 24,
+        "sha256": "b0e6c9513daac843f5f6e19f2d1f63ea1113dc775157bed84c2a9ab88fe967de"
+      },
+      "containerType": 0,
+      "maxCount": 1,
+      "payments": [
+        {
+          "key": "primary",
+          "coinType": 1,
+          "price": 599,
+          "quantity": 1
+        },
+        {
+          "key": "alternate",
+          "coinType": 2,
+          "price": 150000,
+          "quantity": 1
+        }
+      ],
+      "canUseGift": true,
+      "autoUse": false,
+      "available": true
+    },
+    {
+      "goodsId": 902000047,
+      "itemId": 10000047,
+      "tab": 2,
+      "grantKind": "tank",
+      "name": "Pikachu",
+      "description": "Chuột điện với sấm sét vạn vôn",
+      "icon": {
+        "url": "/rez/zh_CN/avatar/micro/abb38b228abbd1213055168a48a0b889.png",
+        "width": 24,
+        "height": 24,
+        "sha256": "b0e6c9513daac843f5f6e19f2d1f63ea1113dc775157bed84c2a9ab88fe967de"
+      },
+      "containerType": 0,
+      "maxCount": 1,
+      "payments": [
+        {
+          "key": "primary",
+          "coinType": 1,
+          "price": 499,
+          "quantity": 1
+        },
+        {
+          "key": "alternate",
+          "coinType": 2,
+          "price": 120000,
+          "quantity": 1
+        }
+      ],
+      "canUseGift": true,
+      "autoUse": false,
+      "available": true
+    },
+    {
+      "goodsId": 902000048,
+      "itemId": 10000048,
+      "tab": 2,
+      "grantKind": "tank",
+      "name": "Sát thủ",
+      "description": "Thích khách thoắt ẩn thoắt hiện",
+      "icon": {
+        "url": "/rez/zh_CN/avatar/micro/abb38b228abbd1213055168a48a0b889.png",
+        "width": 24,
+        "height": 24,
+        "sha256": "b0e6c9513daac843f5f6e19f2d1f63ea1113dc775157bed84c2a9ab88fe967de"
+      },
+      "containerType": 0,
+      "maxCount": 1,
+      "payments": [
+        {
+          "key": "primary",
+          "coinType": 1,
+          "price": 499,
+          "quantity": 1
+        },
+        {
+          "key": "alternate",
+          "coinType": 2,
+          "price": 120000,
+          "quantity": 1
+        }
+      ],
+      "canUseGift": true,
+      "autoUse": false,
+      "available": true
+    },
+    {
+      "goodsId": 902000052,
+      "itemId": 10000052,
+      "tab": 2,
+      "grantKind": "tank",
+      "name": "Bí Ngô Vương",
+      "description": "Vua bí ngô Halloween hắc ám",
+      "icon": {
+        "url": "/rez/zh_CN/avatar/micro/abb38b228abbd1213055168a48a0b889.png",
+        "width": 24,
+        "height": 24,
+        "sha256": "b0e6c9513daac843f5f6e19f2d1f63ea1113dc775157bed84c2a9ab88fe967de"
+      },
+      "containerType": 0,
+      "maxCount": 1,
+      "payments": [
+        {
+          "key": "primary",
+          "coinType": 1,
+          "price": 699,
+          "quantity": 1
+        },
+        {
+          "key": "alternate",
+          "coinType": 2,
+          "price": 200000,
+          "quantity": 1
+        }
+      ],
+      "canUseGift": true,
+      "autoUse": false,
+      "available": true
+    },
+    {
+      "goodsId": 902000053,
+      "itemId": 10000053,
+      "tab": 2,
+      "grantKind": "tank",
+      "name": "Superman",
+      "description": "Người đàn ông thép sức mạnh vô song",
+      "icon": {
+        "url": "/rez/zh_CN/avatar/micro/abb38b228abbd1213055168a48a0b889.png",
+        "width": 24,
+        "height": 24,
+        "sha256": "b0e6c9513daac843f5f6e19f2d1f63ea1113dc775157bed84c2a9ab88fe967de"
+      },
+      "containerType": 0,
+      "maxCount": 1,
+      "payments": [
+        {
+          "key": "primary",
+          "coinType": 1,
+          "price": 699,
+          "quantity": 1
+        },
+        {
+          "key": "alternate",
+          "coinType": 2,
+          "price": 200000,
+          "quantity": 1
+        }
+      ],
+      "canUseGift": true,
+      "autoUse": false,
+      "available": true
+    },
+    {
+      "goodsId": 902000071,
+      "itemId": 10000071,
+      "tab": 2,
+      "grantKind": "tank",
+      "name": "Joker",
+      "description": "Gã hề điên loạn với bẫy bất ngờ",
+      "icon": {
+        "url": "/rez/zh_CN/avatar/micro/abb38b228abbd1213055168a48a0b889.png",
+        "width": 24,
+        "height": 24,
+        "sha256": "b0e6c9513daac843f5f6e19f2d1f63ea1113dc775157bed84c2a9ab88fe967de"
+      },
+      "containerType": 0,
+      "maxCount": 1,
+      "payments": [
+        {
+          "key": "primary",
+          "coinType": 1,
+          "price": 599,
+          "quantity": 1
+        },
+        {
+          "key": "alternate",
+          "coinType": 2,
+          "price": 150000,
+          "quantity": 1
+        }
+      ],
+      "canUseGift": true,
+      "autoUse": false,
+      "available": true
+    },
+    {
+      "goodsId": 902000075,
+      "itemId": 10000075,
+      "tab": 2,
+      "grantKind": "tank",
+      "name": "Lữ Bố",
+      "description": "Chiến thần vô song Phương Thiên Họa Kích",
+      "icon": {
+        "url": "/rez/zh_CN/avatar/micro/abb38b228abbd1213055168a48a0b889.png",
+        "width": 24,
+        "height": 24,
+        "sha256": "b0e6c9513daac843f5f6e19f2d1f63ea1113dc775157bed84c2a9ab88fe967de"
+      },
+      "containerType": 0,
+      "maxCount": 1,
+      "payments": [
+        {
+          "key": "primary",
+          "coinType": 1,
+          "price": 699,
+          "quantity": 1
+        },
+        {
+          "key": "alternate",
+          "coinType": 2,
+          "price": 200000,
+          "quantity": 1
+        }
+      ],
+      "canUseGift": true,
+      "autoUse": false,
+      "available": true
+    },
+    {
+      "goodsId": 902000081,
+      "itemId": 10000081,
+      "tab": 2,
+      "grantKind": "tank",
+      "name": "Kiếm Thần",
+      "description": "Vô cực kiếm thần sát khí ngút trời",
+      "icon": {
+        "url": "/rez/zh_CN/avatar/micro/abb38b228abbd1213055168a48a0b889.png",
+        "width": 24,
+        "height": 24,
+        "sha256": "b0e6c9513daac843f5f6e19f2d1f63ea1113dc775157bed84c2a9ab88fe967de"
+      },
+      "containerType": 0,
+      "maxCount": 1,
+      "payments": [
+        {
+          "key": "primary",
+          "coinType": 1,
+          "price": 699,
+          "quantity": 1
+        },
+        {
+          "key": "alternate",
+          "coinType": 2,
+          "price": 200000,
+          "quantity": 1
+        }
+      ],
+      "canUseGift": true,
+      "autoUse": false,
+      "available": true
+    },
+    {
+      "goodsId": 902003072,
+      "itemId": 2003072,
+      "tab": 1,
+      "grantKind": "item",
+      "name": "Trứng Baymax",
+      "description": "Mở 1 trứng: 10% nhận Tank vĩnh viễn; 90% nhận một phần nguyên liệu nâng cấp tank.",
+      "icon": {
+        "url": "/rez/zh_CN/icon/item/29447d5eea0c80575cba51df75229693.png",
+        "width": 100,
+        "height": 100,
+        "sha256": "a585c23133301b8d2eb05cbd9c666fdbf785c2f4309d4645ccb0ceef8b33492b"
+      },
+      "containerType": 2,
+      "maxCount": 99,
+      "payments": [
+        {
+          "key": "primary",
+          "coinType": 1,
+          "price": 399,
+          "quantity": 1
+        },
+        {
+          "key": "alternate",
+          "coinType": 2,
+          "price": 79800,
+          "quantity": 1
+        }
+      ],
+      "canUseGift": true,
+      "autoUse": false,
+      "available": true,
+      "boxId": 2003072
+    },
+    {
+      "goodsId": 902003077,
+      "itemId": 2003077,
+      "tab": 4,
+      "grantKind": "item",
+      "name": "Trứng Zoro",
+      "description": "Mở 1 trứng: 10% nhận Tank vĩnh viễn; 90% nhận một phần nguyên liệu nâng cấp tank.",
+      "icon": {
+        "url": "/rez/zh_CN/icon/item/29447d5eea0c80575cba51df75229693.png",
+        "width": 100,
+        "height": 100,
+        "sha256": "a585c23133301b8d2eb05cbd9c666fdbf785c2f4309d4645ccb0ceef8b33492b"
+      },
+      "containerType": 2,
+      "maxCount": 99,
+      "payments": [
+        {
+          "key": "primary",
+          "coinType": 1,
+          "price": 399,
+          "quantity": 1
+        },
+        {
+          "key": "alternate",
+          "coinType": 2,
+          "price": 79800,
+          "quantity": 1
+        }
+      ],
+      "canUseGift": true,
+      "autoUse": false,
+      "available": true,
+      "boxId": 2003077
+    },
+    {
+      "goodsId": 902003078,
+      "itemId": 2003078,
+      "tab": 4,
+      "grantKind": "item",
+      "name": "Trứng Mikasa",
+      "description": "Mở 1 trứng: 10% nhận Tank vĩnh viễn; 90% nhận một phần nguyên liệu nâng cấp tank.",
+      "icon": {
+        "url": "/rez/zh_CN/icon/item/29447d5eea0c80575cba51df75229693.png",
+        "width": 100,
+        "height": 100,
+        "sha256": "a585c23133301b8d2eb05cbd9c666fdbf785c2f4309d4645ccb0ceef8b33492b"
+      },
+      "containerType": 2,
+      "maxCount": 99,
+      "payments": [
+        {
+          "key": "primary",
+          "coinType": 1,
+          "price": 399,
+          "quantity": 1
+        },
+        {
+          "key": "alternate",
+          "coinType": 2,
+          "price": 79800,
+          "quantity": 1
+        }
+      ],
+      "canUseGift": true,
+      "autoUse": false,
+      "available": true,
+      "boxId": 2003078
+    },
+    {
+      "goodsId": 902003080,
+      "itemId": 2003080,
+      "tab": 1,
+      "grantKind": "item",
+      "name": "Trứng Doraemon",
+      "description": "Mở 1 trứng: 10% nhận Tank vĩnh viễn; 90% nhận một phần nguyên liệu nâng cấp tank.",
+      "icon": {
+        "url": "/rez/zh_CN/icon/item/29447d5eea0c80575cba51df75229693.png",
+        "width": 100,
+        "height": 100,
+        "sha256": "a585c23133301b8d2eb05cbd9c666fdbf785c2f4309d4645ccb0ceef8b33492b"
+      },
+      "containerType": 2,
+      "maxCount": 99,
+      "payments": [
+        {
+          "key": "primary",
+          "coinType": 1,
+          "price": 499,
+          "quantity": 1
+        },
+        {
+          "key": "alternate",
+          "coinType": 2,
+          "price": 99800,
+          "quantity": 1
+        }
+      ],
+      "canUseGift": true,
+      "autoUse": false,
+      "available": true,
+      "boxId": 2003080
+    },
+    {
+      "goodsId": 902003096,
+      "itemId": 2003096,
+      "tab": 1,
+      "grantKind": "item",
+      "name": "Trứng Kirito",
+      "description": "Mở 1 trứng: 10% nhận Tank vĩnh viễn; 90% nhận một phần nguyên liệu nâng cấp tank.",
+      "icon": {
+        "url": "/rez/zh_CN/icon/item/29447d5eea0c80575cba51df75229693.png",
+        "width": 100,
+        "height": 100,
+        "sha256": "a585c23133301b8d2eb05cbd9c666fdbf785c2f4309d4645ccb0ceef8b33492b"
+      },
+      "containerType": 2,
+      "maxCount": 99,
+      "payments": [
+        {
+          "key": "primary",
+          "coinType": 1,
+          "price": 499,
+          "quantity": 1
+        },
+        {
+          "key": "alternate",
+          "coinType": 2,
+          "price": 99800,
+          "quantity": 1
+        }
+      ],
+      "canUseGift": true,
+      "autoUse": false,
+      "available": true,
+      "boxId": 2003096
+    },
+    {
+      "goodsId": 902003520,
+      "itemId": 2003520,
+      "tab": 1,
+      "grantKind": "item",
+      "name": "Trứng Saitama",
+      "description": "Mở 1 trứng: 10% nhận Tank vĩnh viễn; 90% nhận một phần nguyên liệu nâng cấp tank.",
+      "icon": {
+        "url": "/rez/zh_CN/icon/item/29447d5eea0c80575cba51df75229693.png",
+        "width": 100,
+        "height": 100,
+        "sha256": "a585c23133301b8d2eb05cbd9c666fdbf785c2f4309d4645ccb0ceef8b33492b"
+      },
+      "containerType": 2,
+      "maxCount": 99,
+      "payments": [
+        {
+          "key": "primary",
+          "coinType": 1,
+          "price": 499,
+          "quantity": 1
+        },
+        {
+          "key": "alternate",
+          "coinType": 2,
+          "price": 99800,
+          "quantity": 1
+        }
+      ],
+      "canUseGift": true,
+      "autoUse": false,
+      "available": true,
+      "boxId": 2003520
+    },
+    {
+      "goodsId": 902003093,
+      "itemId": 2003093,
+      "tab": 4,
+      "grantKind": "item",
+      "name": "Trứng Sasuke",
+      "description": "Mở 1 trứng: 10% nhận Tank vĩnh viễn; 90% nhận một phần nguyên liệu nâng cấp tank.",
+      "icon": {
+        "url": "/rez/zh_CN/icon/item/29447d5eea0c80575cba51df75229693.png",
+        "width": 100,
+        "height": 100,
+        "sha256": "a585c23133301b8d2eb05cbd9c666fdbf785c2f4309d4645ccb0ceef8b33492b"
+      },
+      "containerType": 2,
+      "maxCount": 99,
+      "payments": [
+        {
+          "key": "primary",
+          "coinType": 1,
+          "price": 499,
+          "quantity": 1
+        },
+        {
+          "key": "alternate",
+          "coinType": 2,
+          "price": 99800,
+          "quantity": 1
+        }
+      ],
+      "canUseGift": true,
+      "autoUse": false,
+      "available": true,
+      "boxId": 2003093
+    },
+    {
+      "goodsId": 902003095,
+      "itemId": 2003095,
+      "tab": 4,
+      "grantKind": "item",
+      "name": "Trứng Kurumi",
+      "description": "Mở 1 trứng: 10% nhận Tank vĩnh viễn; 90% nhận một phần nguyên liệu nâng cấp tank.",
+      "icon": {
+        "url": "/rez/zh_CN/icon/item/29447d5eea0c80575cba51df75229693.png",
+        "width": 100,
+        "height": 100,
+        "sha256": "a585c23133301b8d2eb05cbd9c666fdbf785c2f4309d4645ccb0ceef8b33492b"
+      },
+      "containerType": 2,
+      "maxCount": 99,
+      "payments": [
+        {
+          "key": "primary",
+          "coinType": 1,
+          "price": 499,
+          "quantity": 1
+        },
+        {
+          "key": "alternate",
+          "coinType": 2,
+          "price": 99800,
+          "quantity": 1
+        }
+      ],
+      "canUseGift": true,
+      "autoUse": false,
+      "available": true,
+      "boxId": 2003095
+    },
+    {
+      "goodsId": 902003082,
+      "itemId": 2003082,
+      "tab": 4,
+      "grantKind": "item",
+      "name": "Trứng Na Tra",
+      "description": "Mở 1 trứng: 10% nhận Tank vĩnh viễn; 90% nhận một phần nguyên liệu nâng cấp tank.",
+      "icon": {
+        "url": "/rez/zh_CN/icon/item/29447d5eea0c80575cba51df75229693.png",
+        "width": 100,
+        "height": 100,
+        "sha256": "a585c23133301b8d2eb05cbd9c666fdbf785c2f4309d4645ccb0ceef8b33492b"
+      },
+      "containerType": 2,
+      "maxCount": 99,
+      "payments": [
+        {
+          "key": "primary",
+          "coinType": 1,
+          "price": 399,
+          "quantity": 1
+        },
+        {
+          "key": "alternate",
+          "coinType": 2,
+          "price": 79800,
+          "quantity": 1
+        }
+      ],
+      "canUseGift": true,
+      "autoUse": false,
+      "available": true,
+      "boxId": 2003082
+    },
+    {
+      "goodsId": 902003083,
+      "itemId": 2003083,
+      "tab": 4,
+      "grantKind": "item",
+      "name": "Trứng Doctor Strange",
+      "description": "Mở 1 trứng: 10% nhận Tank vĩnh viễn; 90% nhận một phần nguyên liệu nâng cấp tank.",
+      "icon": {
+        "url": "/rez/zh_CN/icon/item/29447d5eea0c80575cba51df75229693.png",
+        "width": 100,
+        "height": 100,
+        "sha256": "a585c23133301b8d2eb05cbd9c666fdbf785c2f4309d4645ccb0ceef8b33492b"
+      },
+      "containerType": 2,
+      "maxCount": 99,
+      "payments": [
+        {
+          "key": "primary",
+          "coinType": 1,
+          "price": 499,
+          "quantity": 1
+        },
+        {
+          "key": "alternate",
+          "coinType": 2,
+          "price": 99800,
+          "quantity": 1
+        }
+      ],
+      "canUseGift": true,
+      "autoUse": false,
+      "available": true,
+      "boxId": 2003083
+    },
+    {
+      "goodsId": 902710025,
+      "itemId": 2710025,
+      "tab": 4,
+      "grantKind": "item",
+      "name": "Trứng Sơn Tinh",
+      "description": "Mở 1 trứng: 10% nhận Tank vĩnh viễn; 90% nhận một phần nguyên liệu nâng cấp tank.",
+      "icon": {
+        "url": "/rez/zh_CN/icon/item/29447d5eea0c80575cba51df75229693.png",
+        "width": 100,
+        "height": 100,
+        "sha256": "a585c23133301b8d2eb05cbd9c666fdbf785c2f4309d4645ccb0ceef8b33492b"
+      },
+      "containerType": 2,
+      "maxCount": 99,
+      "payments": [
+        {
+          "key": "primary",
+          "coinType": 1,
+          "price": 399,
+          "quantity": 1
+        },
+        {
+          "key": "alternate",
+          "coinType": 2,
+          "price": 79800,
+          "quantity": 1
+        }
+      ],
+      "canUseGift": true,
+      "autoUse": false,
+      "available": true,
+      "boxId": 2710025
+    },
+    {
+      "goodsId": 902003079,
+      "itemId": 2003079,
+      "tab": 4,
+      "grantKind": "item",
+      "name": "Trứng Thủy Tinh",
+      "description": "Mở 1 trứng: 10% nhận Tank vĩnh viễn; 90% nhận một phần nguyên liệu nâng cấp tank.",
+      "icon": {
+        "url": "/rez/zh_CN/icon/item/29447d5eea0c80575cba51df75229693.png",
+        "width": 100,
+        "height": 100,
+        "sha256": "a585c23133301b8d2eb05cbd9c666fdbf785c2f4309d4645ccb0ceef8b33492b"
+      },
+      "containerType": 2,
+      "maxCount": 99,
+      "payments": [
+        {
+          "key": "primary",
+          "coinType": 1,
+          "price": 399,
+          "quantity": 1
+        },
+        {
+          "key": "alternate",
+          "coinType": 2,
+          "price": 79800,
+          "quantity": 1
+        }
+      ],
+      "canUseGift": true,
+      "autoUse": false,
+      "available": true,
+      "boxId": 2003079
+    },
+    {
+      "goodsId": 902710014,
+      "itemId": 2710014,
+      "tab": 4,
+      "grantKind": "item",
+      "name": "Trứng Thor",
+      "description": "Mở 1 trứng: 10% nhận Tank vĩnh viễn; 90% nhận một phần nguyên liệu nâng cấp tank.",
+      "icon": {
+        "url": "/rez/zh_CN/icon/item/29447d5eea0c80575cba51df75229693.png",
+        "width": 100,
+        "height": 100,
+        "sha256": "a585c23133301b8d2eb05cbd9c666fdbf785c2f4309d4645ccb0ceef8b33492b"
+      },
+      "containerType": 2,
+      "maxCount": 99,
+      "payments": [
+        {
+          "key": "primary",
+          "coinType": 1,
+          "price": 399,
+          "quantity": 1
+        },
+        {
+          "key": "alternate",
+          "coinType": 2,
+          "price": 79800,
+          "quantity": 1
+        }
+      ],
+      "canUseGift": true,
+      "autoUse": false,
+      "available": true,
+      "boxId": 2710014
+    },
+    {
+      "goodsId": 902710017,
+      "itemId": 2710017,
+      "tab": 1,
+      "grantKind": "item",
+      "name": "Trứng Songoku",
+      "description": "Mở 1 trứng: 10% nhận Tank vĩnh viễn; 90% nhận một phần nguyên liệu nâng cấp tank.",
+      "icon": {
+        "url": "/rez/zh_CN/icon/item/29447d5eea0c80575cba51df75229693.png",
+        "width": 100,
+        "height": 100,
+        "sha256": "a585c23133301b8d2eb05cbd9c666fdbf785c2f4309d4645ccb0ceef8b33492b"
+      },
+      "containerType": 2,
+      "maxCount": 99,
+      "payments": [
+        {
+          "key": "primary",
+          "coinType": 1,
+          "price": 499,
+          "quantity": 1
+        },
+        {
+          "key": "alternate",
+          "coinType": 2,
+          "price": 99800,
+          "quantity": 1
+        }
+      ],
+      "canUseGift": true,
+      "autoUse": false,
+      "available": true,
+      "boxId": 2710017
+    },
+    {
+      "goodsId": 902710019,
+      "itemId": 2710019,
+      "tab": 4,
+      "grantKind": "item",
+      "name": "Trứng Naruto",
+      "description": "Mở 1 trứng: 10% nhận Tank vĩnh viễn; 90% nhận một phần nguyên liệu nâng cấp tank.",
+      "icon": {
+        "url": "/rez/zh_CN/icon/item/29447d5eea0c80575cba51df75229693.png",
+        "width": 100,
+        "height": 100,
+        "sha256": "a585c23133301b8d2eb05cbd9c666fdbf785c2f4309d4645ccb0ceef8b33492b"
+      },
+      "containerType": 2,
+      "maxCount": 99,
+      "payments": [
+        {
+          "key": "primary",
+          "coinType": 1,
+          "price": 499,
+          "quantity": 1
+        },
+        {
+          "key": "alternate",
+          "coinType": 2,
+          "price": 99800,
+          "quantity": 1
+        }
+      ],
+      "canUseGift": true,
+      "autoUse": false,
+      "available": true,
+      "boxId": 2710019
+    },
+    {
+      "goodsId": 902710020,
+      "itemId": 2710020,
+      "tab": 4,
+      "grantKind": "item",
+      "name": "Trứng Luffy",
+      "description": "Mở 1 trứng: 10% nhận Tank vĩnh viễn; 90% nhận một phần nguyên liệu nâng cấp tank.",
+      "icon": {
+        "url": "/rez/zh_CN/icon/item/29447d5eea0c80575cba51df75229693.png",
+        "width": 100,
+        "height": 100,
+        "sha256": "a585c23133301b8d2eb05cbd9c666fdbf785c2f4309d4645ccb0ceef8b33492b"
+      },
+      "containerType": 2,
+      "maxCount": 99,
+      "payments": [
+        {
+          "key": "primary",
+          "coinType": 1,
+          "price": 399,
+          "quantity": 1
+        },
+        {
+          "key": "alternate",
+          "coinType": 2,
+          "price": 79800,
+          "quantity": 1
+        }
+      ],
+      "canUseGift": true,
+      "autoUse": false,
+      "available": true,
+      "boxId": 2710020
+    },
+    {
+      "goodsId": 902710021,
+      "itemId": 2710021,
+      "tab": 4,
+      "grantKind": "item",
+      "name": "Trứng Pikachu",
+      "description": "Mở 1 trứng: 10% nhận Tank vĩnh viễn; 90% nhận một phần nguyên liệu nâng cấp tank.",
+      "icon": {
+        "url": "/rez/zh_CN/icon/item/29447d5eea0c80575cba51df75229693.png",
+        "width": 100,
+        "height": 100,
+        "sha256": "a585c23133301b8d2eb05cbd9c666fdbf785c2f4309d4645ccb0ceef8b33492b"
+      },
+      "containerType": 2,
+      "maxCount": 99,
+      "payments": [
+        {
+          "key": "primary",
+          "coinType": 1,
+          "price": 399,
+          "quantity": 1
+        },
+        {
+          "key": "alternate",
+          "coinType": 2,
+          "price": 79800,
+          "quantity": 1
+        }
+      ],
+      "canUseGift": true,
+      "autoUse": false,
+      "available": true,
+      "boxId": 2710021
     }
   ],
   "boxes": {
@@ -6647,6 +8050,703 @@
         {
           "kind": "item",
           "id": 4431007,
+          "quantity": 1
+        }
+      ],
+      "material_rewards": [
+        {
+          "kind": "item",
+          "id": 3000148,
+          "quantity": 1
+        },
+        {
+          "kind": "item",
+          "id": 3000147,
+          "quantity": 1
+        },
+        {
+          "kind": "item",
+          "id": 3000052,
+          "quantity": 5
+        },
+        {
+          "kind": "item",
+          "id": 3000001,
+          "quantity": 10
+        }
+      ],
+      "duplicate_policy": "reject_owned_unique_main",
+      "nativeType": 27,
+      "container": 2,
+      "stack_max": 9999,
+      "autoUse": false
+    },
+    "2003072": {
+      "itemId": 2003072,
+      "name": "Trứng Baymax",
+      "mode": "random",
+      "main_percent": 10,
+      "material_percent": 90,
+      "main_rewards": [
+        {
+          "kind": "tank",
+          "id": 10000073,
+          "quantity": 1
+        }
+      ],
+      "material_rewards": [
+        {
+          "kind": "item",
+          "id": 3000148,
+          "quantity": 1
+        },
+        {
+          "kind": "item",
+          "id": 3000147,
+          "quantity": 1
+        },
+        {
+          "kind": "item",
+          "id": 3000052,
+          "quantity": 5
+        },
+        {
+          "kind": "item",
+          "id": 3000001,
+          "quantity": 10
+        }
+      ],
+      "duplicate_policy": "reject_owned_unique_main",
+      "nativeType": 27,
+      "container": 2,
+      "stack_max": 9999,
+      "autoUse": false
+    },
+    "2003077": {
+      "itemId": 2003077,
+      "name": "Trứng Zoro",
+      "mode": "random",
+      "main_percent": 10,
+      "material_percent": 90,
+      "main_rewards": [
+        {
+          "kind": "tank",
+          "id": 10000077,
+          "quantity": 1
+        }
+      ],
+      "material_rewards": [
+        {
+          "kind": "item",
+          "id": 3000148,
+          "quantity": 1
+        },
+        {
+          "kind": "item",
+          "id": 3000147,
+          "quantity": 1
+        },
+        {
+          "kind": "item",
+          "id": 3000052,
+          "quantity": 5
+        },
+        {
+          "kind": "item",
+          "id": 3000001,
+          "quantity": 10
+        }
+      ],
+      "duplicate_policy": "reject_owned_unique_main",
+      "nativeType": 27,
+      "container": 2,
+      "stack_max": 9999,
+      "autoUse": false
+    },
+    "2003078": {
+      "itemId": 2003078,
+      "name": "Trứng Mikasa",
+      "mode": "random",
+      "main_percent": 10,
+      "material_percent": 90,
+      "main_rewards": [
+        {
+          "kind": "tank",
+          "id": 10000078,
+          "quantity": 1
+        }
+      ],
+      "material_rewards": [
+        {
+          "kind": "item",
+          "id": 3000148,
+          "quantity": 1
+        },
+        {
+          "kind": "item",
+          "id": 3000147,
+          "quantity": 1
+        },
+        {
+          "kind": "item",
+          "id": 3000052,
+          "quantity": 5
+        },
+        {
+          "kind": "item",
+          "id": 3000001,
+          "quantity": 10
+        }
+      ],
+      "duplicate_policy": "reject_owned_unique_main",
+      "nativeType": 27,
+      "container": 2,
+      "stack_max": 9999,
+      "autoUse": false
+    },
+    "2003080": {
+      "itemId": 2003080,
+      "name": "Trứng Doraemon",
+      "mode": "random",
+      "main_percent": 10,
+      "material_percent": 90,
+      "main_rewards": [
+        {
+          "kind": "tank",
+          "id": 10000080,
+          "quantity": 1
+        }
+      ],
+      "material_rewards": [
+        {
+          "kind": "item",
+          "id": 3000148,
+          "quantity": 1
+        },
+        {
+          "kind": "item",
+          "id": 3000147,
+          "quantity": 1
+        },
+        {
+          "kind": "item",
+          "id": 3000052,
+          "quantity": 5
+        },
+        {
+          "kind": "item",
+          "id": 3000001,
+          "quantity": 10
+        }
+      ],
+      "duplicate_policy": "reject_owned_unique_main",
+      "nativeType": 27,
+      "container": 2,
+      "stack_max": 9999,
+      "autoUse": false
+    },
+    "2003096": {
+      "itemId": 2003096,
+      "name": "Trứng Kirito",
+      "mode": "random",
+      "main_percent": 10,
+      "material_percent": 90,
+      "main_rewards": [
+        {
+          "kind": "tank",
+          "id": 10000096,
+          "quantity": 1
+        }
+      ],
+      "material_rewards": [
+        {
+          "kind": "item",
+          "id": 3000148,
+          "quantity": 1
+        },
+        {
+          "kind": "item",
+          "id": 3000147,
+          "quantity": 1
+        },
+        {
+          "kind": "item",
+          "id": 3000052,
+          "quantity": 5
+        },
+        {
+          "kind": "item",
+          "id": 3000001,
+          "quantity": 10
+        }
+      ],
+      "duplicate_policy": "reject_owned_unique_main",
+      "nativeType": 27,
+      "container": 2,
+      "stack_max": 9999,
+      "autoUse": false
+    },
+    "2003520": {
+      "itemId": 2003520,
+      "name": "Trứng Saitama",
+      "mode": "random",
+      "main_percent": 10,
+      "material_percent": 90,
+      "main_rewards": [
+        {
+          "kind": "tank",
+          "id": 10000102,
+          "quantity": 1
+        }
+      ],
+      "material_rewards": [
+        {
+          "kind": "item",
+          "id": 3000148,
+          "quantity": 1
+        },
+        {
+          "kind": "item",
+          "id": 3000147,
+          "quantity": 1
+        },
+        {
+          "kind": "item",
+          "id": 3000052,
+          "quantity": 5
+        },
+        {
+          "kind": "item",
+          "id": 3000001,
+          "quantity": 10
+        }
+      ],
+      "duplicate_policy": "reject_owned_unique_main",
+      "nativeType": 27,
+      "container": 2,
+      "stack_max": 9999,
+      "autoUse": false
+    },
+    "2003093": {
+      "itemId": 2003093,
+      "name": "Trứng Sasuke",
+      "mode": "random",
+      "main_percent": 10,
+      "material_percent": 90,
+      "main_rewards": [
+        {
+          "kind": "tank",
+          "id": 10000093,
+          "quantity": 1
+        }
+      ],
+      "material_rewards": [
+        {
+          "kind": "item",
+          "id": 3000148,
+          "quantity": 1
+        },
+        {
+          "kind": "item",
+          "id": 3000147,
+          "quantity": 1
+        },
+        {
+          "kind": "item",
+          "id": 3000052,
+          "quantity": 5
+        },
+        {
+          "kind": "item",
+          "id": 3000001,
+          "quantity": 10
+        }
+      ],
+      "duplicate_policy": "reject_owned_unique_main",
+      "nativeType": 27,
+      "container": 2,
+      "stack_max": 9999,
+      "autoUse": false
+    },
+    "2003095": {
+      "itemId": 2003095,
+      "name": "Trứng Kurumi",
+      "mode": "random",
+      "main_percent": 10,
+      "material_percent": 90,
+      "main_rewards": [
+        {
+          "kind": "tank",
+          "id": 10000095,
+          "quantity": 1
+        }
+      ],
+      "material_rewards": [
+        {
+          "kind": "item",
+          "id": 3000148,
+          "quantity": 1
+        },
+        {
+          "kind": "item",
+          "id": 3000147,
+          "quantity": 1
+        },
+        {
+          "kind": "item",
+          "id": 3000052,
+          "quantity": 5
+        },
+        {
+          "kind": "item",
+          "id": 3000001,
+          "quantity": 10
+        }
+      ],
+      "duplicate_policy": "reject_owned_unique_main",
+      "nativeType": 27,
+      "container": 2,
+      "stack_max": 9999,
+      "autoUse": false
+    },
+    "2003082": {
+      "itemId": 2003082,
+      "name": "Trứng Na Tra",
+      "mode": "random",
+      "main_percent": 10,
+      "material_percent": 90,
+      "main_rewards": [
+        {
+          "kind": "tank",
+          "id": 10000082,
+          "quantity": 1
+        }
+      ],
+      "material_rewards": [
+        {
+          "kind": "item",
+          "id": 3000148,
+          "quantity": 1
+        },
+        {
+          "kind": "item",
+          "id": 3000147,
+          "quantity": 1
+        },
+        {
+          "kind": "item",
+          "id": 3000052,
+          "quantity": 5
+        },
+        {
+          "kind": "item",
+          "id": 3000001,
+          "quantity": 10
+        }
+      ],
+      "duplicate_policy": "reject_owned_unique_main",
+      "nativeType": 27,
+      "container": 2,
+      "stack_max": 9999,
+      "autoUse": false
+    },
+    "2003083": {
+      "itemId": 2003083,
+      "name": "Trứng Doctor Strange",
+      "mode": "random",
+      "main_percent": 10,
+      "material_percent": 90,
+      "main_rewards": [
+        {
+          "kind": "tank",
+          "id": 10000083,
+          "quantity": 1
+        }
+      ],
+      "material_rewards": [
+        {
+          "kind": "item",
+          "id": 3000148,
+          "quantity": 1
+        },
+        {
+          "kind": "item",
+          "id": 3000147,
+          "quantity": 1
+        },
+        {
+          "kind": "item",
+          "id": 3000052,
+          "quantity": 5
+        },
+        {
+          "kind": "item",
+          "id": 3000001,
+          "quantity": 10
+        }
+      ],
+      "duplicate_policy": "reject_owned_unique_main",
+      "nativeType": 27,
+      "container": 2,
+      "stack_max": 9999,
+      "autoUse": false
+    },
+    "2710025": {
+      "itemId": 2710025,
+      "name": "Trứng Sơn Tinh",
+      "mode": "random",
+      "main_percent": 10,
+      "material_percent": 90,
+      "main_rewards": [
+        {
+          "kind": "tank",
+          "id": 10000051,
+          "quantity": 1
+        }
+      ],
+      "material_rewards": [
+        {
+          "kind": "item",
+          "id": 3000148,
+          "quantity": 1
+        },
+        {
+          "kind": "item",
+          "id": 3000147,
+          "quantity": 1
+        },
+        {
+          "kind": "item",
+          "id": 3000052,
+          "quantity": 5
+        },
+        {
+          "kind": "item",
+          "id": 3000001,
+          "quantity": 10
+        }
+      ],
+      "duplicate_policy": "reject_owned_unique_main",
+      "nativeType": 27,
+      "container": 2,
+      "stack_max": 9999,
+      "autoUse": false
+    },
+    "2003079": {
+      "itemId": 2003079,
+      "name": "Trứng Thủy Tinh",
+      "mode": "random",
+      "main_percent": 10,
+      "material_percent": 90,
+      "main_rewards": [
+        {
+          "kind": "tank",
+          "id": 10000079,
+          "quantity": 1
+        }
+      ],
+      "material_rewards": [
+        {
+          "kind": "item",
+          "id": 3000148,
+          "quantity": 1
+        },
+        {
+          "kind": "item",
+          "id": 3000147,
+          "quantity": 1
+        },
+        {
+          "kind": "item",
+          "id": 3000052,
+          "quantity": 5
+        },
+        {
+          "kind": "item",
+          "id": 3000001,
+          "quantity": 10
+        }
+      ],
+      "duplicate_policy": "reject_owned_unique_main",
+      "nativeType": 27,
+      "container": 2,
+      "stack_max": 9999,
+      "autoUse": false
+    },
+    "2710014": {
+      "itemId": 2710014,
+      "name": "Trứng Thor",
+      "mode": "random",
+      "main_percent": 10,
+      "material_percent": 90,
+      "main_rewards": [
+        {
+          "kind": "tank",
+          "id": 10000039,
+          "quantity": 1
+        }
+      ],
+      "material_rewards": [
+        {
+          "kind": "item",
+          "id": 3000148,
+          "quantity": 1
+        },
+        {
+          "kind": "item",
+          "id": 3000147,
+          "quantity": 1
+        },
+        {
+          "kind": "item",
+          "id": 3000052,
+          "quantity": 5
+        },
+        {
+          "kind": "item",
+          "id": 3000001,
+          "quantity": 10
+        }
+      ],
+      "duplicate_policy": "reject_owned_unique_main",
+      "nativeType": 27,
+      "container": 2,
+      "stack_max": 9999,
+      "autoUse": false
+    },
+    "2710017": {
+      "itemId": 2710017,
+      "name": "Trứng Songoku",
+      "mode": "random",
+      "main_percent": 10,
+      "material_percent": 90,
+      "main_rewards": [
+        {
+          "kind": "tank",
+          "id": 10000042,
+          "quantity": 1
+        }
+      ],
+      "material_rewards": [
+        {
+          "kind": "item",
+          "id": 3000148,
+          "quantity": 1
+        },
+        {
+          "kind": "item",
+          "id": 3000147,
+          "quantity": 1
+        },
+        {
+          "kind": "item",
+          "id": 3000052,
+          "quantity": 5
+        },
+        {
+          "kind": "item",
+          "id": 3000001,
+          "quantity": 10
+        }
+      ],
+      "duplicate_policy": "reject_owned_unique_main",
+      "nativeType": 27,
+      "container": 2,
+      "stack_max": 9999,
+      "autoUse": false
+    },
+    "2710019": {
+      "itemId": 2710019,
+      "name": "Trứng Naruto",
+      "mode": "random",
+      "main_percent": 10,
+      "material_percent": 90,
+      "main_rewards": [
+        {
+          "kind": "tank",
+          "id": 10000044,
+          "quantity": 1
+        }
+      ],
+      "material_rewards": [
+        {
+          "kind": "item",
+          "id": 3000148,
+          "quantity": 1
+        },
+        {
+          "kind": "item",
+          "id": 3000147,
+          "quantity": 1
+        },
+        {
+          "kind": "item",
+          "id": 3000052,
+          "quantity": 5
+        },
+        {
+          "kind": "item",
+          "id": 3000001,
+          "quantity": 10
+        }
+      ],
+      "duplicate_policy": "reject_owned_unique_main",
+      "nativeType": 27,
+      "container": 2,
+      "stack_max": 9999,
+      "autoUse": false
+    },
+    "2710020": {
+      "itemId": 2710020,
+      "name": "Trứng Luffy",
+      "mode": "random",
+      "main_percent": 10,
+      "material_percent": 90,
+      "main_rewards": [
+        {
+          "kind": "tank",
+          "id": 10000046,
+          "quantity": 1
+        }
+      ],
+      "material_rewards": [
+        {
+          "kind": "item",
+          "id": 3000148,
+          "quantity": 1
+        },
+        {
+          "kind": "item",
+          "id": 3000147,
+          "quantity": 1
+        },
+        {
+          "kind": "item",
+          "id": 3000052,
+          "quantity": 5
+        },
+        {
+          "kind": "item",
+          "id": 3000001,
+          "quantity": 10
+        }
+      ],
+      "duplicate_policy": "reject_owned_unique_main",
+      "nativeType": 27,
+      "container": 2,
+      "stack_max": 9999,
+      "autoUse": false
+    },
+    "2710021": {
+      "itemId": 2710021,
+      "name": "Trứng Pikachu",
+      "mode": "random",
+      "main_percent": 10,
+      "material_percent": 90,
+      "main_rewards": [
+        {
+          "kind": "tank",
+          "id": 10000047,
           "quantity": 1
         }
       ],
@@ -9504,7 +11604,481 @@
       "container": 2,
       "stack_max": 9999,
       "nativeType": 27
+    },
+    "tank:10000073": {
+      "key": "tank:10000073",
+      "kind": "tank",
+      "id": 10000073,
+      "category": "tank",
+      "name": "Baymax",
+      "max_quantity": 1,
+      "unique": true,
+      "level": 1,
+      "note": "Tank vĩnh viễn LV1; không tự trang bị hoặc nâng cấp."
+    },
+    "tank:10000077": {
+      "key": "tank:10000077",
+      "kind": "tank",
+      "id": 10000077,
+      "category": "tank",
+      "name": "Zoro",
+      "max_quantity": 1,
+      "unique": true,
+      "level": 1,
+      "note": "Tank vĩnh viễn LV1; không tự trang bị hoặc nâng cấp."
+    },
+    "tank:10000078": {
+      "key": "tank:10000078",
+      "kind": "tank",
+      "id": 10000078,
+      "category": "tank",
+      "name": "Mikasa",
+      "max_quantity": 1,
+      "unique": true,
+      "level": 1,
+      "note": "Tank vĩnh viễn LV1; không tự trang bị hoặc nâng cấp."
+    },
+    "tank:10000080": {
+      "key": "tank:10000080",
+      "kind": "tank",
+      "id": 10000080,
+      "category": "tank",
+      "name": "Doraemon",
+      "max_quantity": 1,
+      "unique": true,
+      "level": 1,
+      "note": "Tank vĩnh viễn LV1; không tự trang bị hoặc nâng cấp."
+    },
+    "tank:10000096": {
+      "key": "tank:10000096",
+      "kind": "tank",
+      "id": 10000096,
+      "category": "tank",
+      "name": "Kirito",
+      "max_quantity": 1,
+      "unique": true,
+      "level": 1,
+      "note": "Tank vĩnh viễn LV1; không tự trang bị hoặc nâng cấp."
+    },
+    "tank:10000102": {
+      "key": "tank:10000102",
+      "kind": "tank",
+      "id": 10000102,
+      "category": "tank",
+      "name": "Saitama",
+      "max_quantity": 1,
+      "unique": true,
+      "level": 1,
+      "note": "Tank vĩnh viễn LV1; không tự trang bị hoặc nâng cấp."
+    },
+    "tank:10000093": {
+      "key": "tank:10000093",
+      "kind": "tank",
+      "id": 10000093,
+      "category": "tank",
+      "name": "Sasuke",
+      "max_quantity": 1,
+      "unique": true,
+      "level": 1,
+      "note": "Tank vĩnh viễn LV1; không tự trang bị hoặc nâng cấp."
+    },
+    "tank:10000095": {
+      "key": "tank:10000095",
+      "kind": "tank",
+      "id": 10000095,
+      "category": "tank",
+      "name": "Kurumi",
+      "max_quantity": 1,
+      "unique": true,
+      "level": 1,
+      "note": "Tank vĩnh viễn LV1; không tự trang bị hoặc nâng cấp."
+    },
+    "tank:10000082": {
+      "key": "tank:10000082",
+      "kind": "tank",
+      "id": 10000082,
+      "category": "tank",
+      "name": "Na Tra",
+      "max_quantity": 1,
+      "unique": true,
+      "level": 1,
+      "note": "Tank vĩnh viễn LV1; không tự trang bị hoặc nâng cấp."
+    },
+    "tank:10000083": {
+      "key": "tank:10000083",
+      "kind": "tank",
+      "id": 10000083,
+      "category": "tank",
+      "name": "Doctor Strange",
+      "max_quantity": 1,
+      "unique": true,
+      "level": 1,
+      "note": "Tank vĩnh viễn LV1; không tự trang bị hoặc nâng cấp."
+    },
+    "tank:10000090": {
+      "key": "tank:10000090",
+      "kind": "tank",
+      "id": 10000090,
+      "category": "tank",
+      "name": "Natsu",
+      "max_quantity": 1,
+      "unique": true,
+      "level": 1,
+      "note": "Tank vĩnh viễn LV1; không tự trang bị hoặc nâng cấp."
+    },
+    "tank:10000051": {
+      "key": "tank:10000051",
+      "kind": "tank",
+      "id": 10000051,
+      "category": "tank",
+      "name": "Sơn Tinh",
+      "max_quantity": 1,
+      "unique": true,
+      "level": 1,
+      "note": "Tank vĩnh viễn LV1; không tự trang bị hoặc nâng cấp."
+    },
+    "tank:10000079": {
+      "key": "tank:10000079",
+      "kind": "tank",
+      "id": 10000079,
+      "category": "tank",
+      "name": "Thủy Tinh",
+      "max_quantity": 1,
+      "unique": true,
+      "level": 1,
+      "note": "Tank vĩnh viễn LV1; không tự trang bị hoặc nâng cấp."
+    },
+    "tank:10000039": {
+      "key": "tank:10000039",
+      "kind": "tank",
+      "id": 10000039,
+      "category": "tank",
+      "name": "Thor",
+      "max_quantity": 1,
+      "unique": true,
+      "level": 1,
+      "note": "Tank vĩnh viễn LV1; không tự trang bị hoặc nâng cấp."
+    },
+    "tank:10000042": {
+      "key": "tank:10000042",
+      "kind": "tank",
+      "id": 10000042,
+      "category": "tank",
+      "name": "Songoku",
+      "max_quantity": 1,
+      "unique": true,
+      "level": 1,
+      "note": "Tank vĩnh viễn LV1; không tự trang bị hoặc nâng cấp."
+    },
+    "tank:10000044": {
+      "key": "tank:10000044",
+      "kind": "tank",
+      "id": 10000044,
+      "category": "tank",
+      "name": "Naruto",
+      "max_quantity": 1,
+      "unique": true,
+      "level": 1,
+      "note": "Tank vĩnh viễn LV1; không tự trang bị hoặc nâng cấp."
+    },
+    "tank:10000046": {
+      "key": "tank:10000046",
+      "kind": "tank",
+      "id": 10000046,
+      "category": "tank",
+      "name": "Luffy",
+      "max_quantity": 1,
+      "unique": true,
+      "level": 1,
+      "note": "Tank vĩnh viễn LV1; không tự trang bị hoặc nâng cấp."
+    },
+    "tank:10000047": {
+      "key": "tank:10000047",
+      "kind": "tank",
+      "id": 10000047,
+      "category": "tank",
+      "name": "Pikachu",
+      "max_quantity": 1,
+      "unique": true,
+      "level": 1,
+      "note": "Tank vĩnh viễn LV1; không tự trang bị hoặc nâng cấp."
+    },
+    "tank:10000048": {
+      "key": "tank:10000048",
+      "kind": "tank",
+      "id": 10000048,
+      "category": "tank",
+      "name": "Sát thủ",
+      "max_quantity": 1,
+      "unique": true,
+      "level": 1,
+      "note": "Tank vĩnh viễn LV1; không tự trang bị hoặc nâng cấp."
+    },
+    "tank:10000053": {
+      "key": "tank:10000053",
+      "kind": "tank",
+      "id": 10000053,
+      "category": "tank",
+      "name": "Superman",
+      "max_quantity": 1,
+      "unique": true,
+      "level": 1,
+      "note": "Tank vĩnh viễn LV1; không tự trang bị hoặc nâng cấp."
+    },
+    "tank:10000071": {
+      "key": "tank:10000071",
+      "kind": "tank",
+      "id": 10000071,
+      "category": "tank",
+      "name": "Joker",
+      "max_quantity": 1,
+      "unique": true,
+      "level": 1,
+      "note": "Tank vĩnh viễn LV1; không tự trang bị hoặc nâng cấp."
+    },
+    "tank:10000075": {
+      "key": "tank:10000075",
+      "kind": "tank",
+      "id": 10000075,
+      "category": "tank",
+      "name": "Lữ Bố",
+      "max_quantity": 1,
+      "unique": true,
+      "level": 1,
+      "note": "Tank vĩnh viễn LV1; không tự trang bị hoặc nâng cấp."
+    },
+    "tank:10000081": {
+      "key": "tank:10000081",
+      "kind": "tank",
+      "id": 10000081,
+      "category": "tank",
+      "name": "Kiếm Thần",
+      "max_quantity": 1,
+      "unique": true,
+      "level": 1,
+      "note": "Tank vĩnh viễn LV1; không tự trang bị hoặc nâng cấp."
+    },
+    "item:2003072": {
+      "key": "item:2003072",
+      "kind": "item",
+      "id": 2003072,
+      "category": "box",
+      "name": "Trứng Baymax",
+      "max_quantity": 1000000,
+      "unique": false,
+      "level": 0,
+      "container": 2,
+      "stack_max": 9999,
+      "nativeType": 27
+    },
+    "item:2003077": {
+      "key": "item:2003077",
+      "kind": "item",
+      "id": 2003077,
+      "category": "box",
+      "name": "Trứng Zoro",
+      "max_quantity": 1000000,
+      "unique": false,
+      "level": 0,
+      "container": 2,
+      "stack_max": 9999,
+      "nativeType": 27
+    },
+    "item:2003078": {
+      "key": "item:2003078",
+      "kind": "item",
+      "id": 2003078,
+      "category": "box",
+      "name": "Trứng Mikasa",
+      "max_quantity": 1000000,
+      "unique": false,
+      "level": 0,
+      "container": 2,
+      "stack_max": 9999,
+      "nativeType": 27
+    },
+    "item:2003080": {
+      "key": "item:2003080",
+      "kind": "item",
+      "id": 2003080,
+      "category": "box",
+      "name": "Trứng Doraemon",
+      "max_quantity": 1000000,
+      "unique": false,
+      "level": 0,
+      "container": 2,
+      "stack_max": 9999,
+      "nativeType": 27
+    },
+    "item:2003096": {
+      "key": "item:2003096",
+      "kind": "item",
+      "id": 2003096,
+      "category": "box",
+      "name": "Trứng Kirito",
+      "max_quantity": 1000000,
+      "unique": false,
+      "level": 0,
+      "container": 2,
+      "stack_max": 9999,
+      "nativeType": 27
+    },
+    "item:2003520": {
+      "key": "item:2003520",
+      "kind": "item",
+      "id": 2003520,
+      "category": "box",
+      "name": "Trứng Saitama",
+      "max_quantity": 1000000,
+      "unique": false,
+      "level": 0,
+      "container": 2,
+      "stack_max": 9999,
+      "nativeType": 27
+    },
+    "item:2003093": {
+      "key": "item:2003093",
+      "kind": "item",
+      "id": 2003093,
+      "category": "box",
+      "name": "Trứng Sasuke",
+      "max_quantity": 1000000,
+      "unique": false,
+      "level": 0,
+      "container": 2,
+      "stack_max": 9999,
+      "nativeType": 27
+    },
+    "item:2003095": {
+      "key": "item:2003095",
+      "kind": "item",
+      "id": 2003095,
+      "category": "box",
+      "name": "Trứng Kurumi",
+      "max_quantity": 1000000,
+      "unique": false,
+      "level": 0,
+      "container": 2,
+      "stack_max": 9999,
+      "nativeType": 27
+    },
+    "item:2003082": {
+      "key": "item:2003082",
+      "kind": "item",
+      "id": 2003082,
+      "category": "box",
+      "name": "Trứng Na Tra",
+      "max_quantity": 1000000,
+      "unique": false,
+      "level": 0,
+      "container": 2,
+      "stack_max": 9999,
+      "nativeType": 27
+    },
+    "item:2003083": {
+      "key": "item:2003083",
+      "kind": "item",
+      "id": 2003083,
+      "category": "box",
+      "name": "Trứng Doctor Strange",
+      "max_quantity": 1000000,
+      "unique": false,
+      "level": 0,
+      "container": 2,
+      "stack_max": 9999,
+      "nativeType": 27
+    },
+    "item:2710025": {
+      "key": "item:2710025",
+      "kind": "item",
+      "id": 2710025,
+      "category": "box",
+      "name": "Trứng Sơn Tinh",
+      "max_quantity": 1000000,
+      "unique": false,
+      "level": 0,
+      "container": 2,
+      "stack_max": 9999,
+      "nativeType": 27
+    },
+    "item:2003079": {
+      "key": "item:2003079",
+      "kind": "item",
+      "id": 2003079,
+      "category": "box",
+      "name": "Trứng Thủy Tinh",
+      "max_quantity": 1000000,
+      "unique": false,
+      "level": 0,
+      "container": 2,
+      "stack_max": 9999,
+      "nativeType": 27
+    },
+    "item:2710014": {
+      "key": "item:2710014",
+      "kind": "item",
+      "id": 2710014,
+      "category": "box",
+      "name": "Trứng Thor",
+      "max_quantity": 1000000,
+      "unique": false,
+      "level": 0,
+      "container": 2,
+      "stack_max": 9999,
+      "nativeType": 27
+    },
+    "item:2710017": {
+      "key": "item:2710017",
+      "kind": "item",
+      "id": 2710017,
+      "category": "box",
+      "name": "Trứng Songoku",
+      "max_quantity": 1000000,
+      "unique": false,
+      "level": 0,
+      "container": 2,
+      "stack_max": 9999,
+      "nativeType": 27
+    },
+    "item:2710019": {
+      "key": "item:2710019",
+      "kind": "item",
+      "id": 2710019,
+      "category": "box",
+      "name": "Trứng Naruto",
+      "max_quantity": 1000000,
+      "unique": false,
+      "level": 0,
+      "container": 2,
+      "stack_max": 9999,
+      "nativeType": 27
+    },
+    "item:2710020": {
+      "key": "item:2710020",
+      "kind": "item",
+      "id": 2710020,
+      "category": "box",
+      "name": "Trứng Luffy",
+      "max_quantity": 1000000,
+      "unique": false,
+      "level": 0,
+      "container": 2,
+      "stack_max": 9999,
+      "nativeType": 27
+    },
+    "item:2710021": {
+      "key": "item:2710021",
+      "kind": "item",
+      "id": 2710021,
+      "category": "box",
+      "name": "Trứng Pikachu",
+      "max_quantity": 1000000,
+      "unique": false,
+      "level": 0,
+      "container": 2,
+      "stack_max": 9999,
+      "nativeType": 27
     }
   },
-  "revision": "dc39dc77190e11116b44d482805fe5f9813478c6f0a6ea6210b8ab8127b2001e"
+  "revision": "92fcb466e380a11217cf73b7bb56e2d2d58fabb860d2e51ae2555f5864fb5d41"
 }

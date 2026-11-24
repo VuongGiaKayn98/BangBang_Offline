@@ -228,10 +228,20 @@
         <ol class="stages" aria-label="Các bước kết nối">
           <li data-stage="web"><span>1</span>Phiên web</li><li data-stage="auth"><span>2</span>Đăng nhập</li><li data-stage="gate"><span>3</span>Nhân vật</li><li data-stage="lobby"><span>4</span>Dữ liệu sảnh</li>
         </ol>
+        <div class="auth-tabs" style="display:flex;gap:8px;margin-bottom:12px;">
+          <button id="tab-login" type="button" class="primary" style="flex:1;">Đăng nhập</button>
+          <button id="tab-register" type="button" class="quiet" style="flex:1;">Đăng ký tài khoản</button>
+        </div>
         <form id="login-form" autocomplete="off">
-          <label>Tài khoản<input id="username" name="username" type="text" minlength="3" maxlength="32" autocomplete="username" required placeholder="Nhập tài khoản test"></label>
+          <label>Tài khoản<input id="username" name="username" type="text" minlength="3" maxlength="32" autocomplete="username" required placeholder="Nhập tài khoản"></label>
           <label>Mật khẩu<input id="password" name="password" type="password" minlength="6" autocomplete="current-password" required placeholder="Mật khẩu tài khoản"></label>
           <button id="login" type="submit" class="primary">Đăng nhập & vào sảnh</button>
+        </form>
+        <form id="register-form" autocomplete="off" hidden>
+          <label>Tài khoản mới<input id="reg-username" name="reg-username" type="text" minlength="3" maxlength="32" autocomplete="username" required placeholder="Tên đăng nhập 3–32 ký tự"></label>
+          <label>Mật khẩu mới<input id="reg-password" name="reg-password" type="password" minlength="6" autocomplete="new-password" required placeholder="Mật khẩu tối thiểu 6 ký tự"></label>
+          <label>Nhập lại mật khẩu<input id="reg-password-repeat" name="reg-password-repeat" type="password" minlength="6" autocomplete="new-password" required placeholder="Nhập lại mật khẩu"></label>
+          <button id="register" type="submit" class="primary">Đăng ký & vào game (Level 1)</button>
         </form>
         <div class="actions"><button id="reconnect" type="button" disabled>Kết nối lại</button><button id="disconnect" type="button" disabled>Ngắt kết nối</button><button id="logout" type="button" disabled>Đăng xuất</button></div>
         <p class="note">Dùng tài khoản trên bản server test. Phiên web, nhân vật và kho tank được xác nhận bởi server hiện hành.</p>

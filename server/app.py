@@ -216,6 +216,13 @@ class Handler(SimpleHTTPRequestHandler):
                 return self._json(200,dict(success=True,setup=setup,tanks=list(AI_TANKS.values())))
             except ValueError as exc:
                 return self._json(400,dict(success=False,message=str(exc)))
+        if path == "/api/register":
+            payload = self._read_json()
+            result = STORE.register(str(payload.get("username") or ""), str(payload.get("password") or ""))
+            if result.get("success"):
+                cookie = result.pop("cookie")
+                return self._json(200, result, set_cookie=cookie)
+            return self._json(200, result)
         if path == "/api/login":
             payload = self._read_json()
             result = STORE.login(str(payload.get("username") or ""), str(payload.get("password") or ""))
