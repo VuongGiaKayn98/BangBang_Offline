@@ -139,7 +139,8 @@ class Handler(SimpleHTTPRequestHandler):
                                     "combat_acceleration": acceleration_status()})
         from guild_protocol import HTTP_ROUTES
         from character_info import HTTP_ROUTES as CHARACTER_ROUTES
-        if path.startswith("/capi") or path == "/goodsshopquery.php" or path.lstrip('/').lower() in HTTP_ROUTES | CHARACTER_ROUTES:
+        from capi import CAPI_ROUTES
+        if path.startswith("/capi") or path.lstrip('/').lower() in HTTP_ROUTES | CHARACTER_ROUTES | CAPI_ROUTES:
             from capi import handle
 
             hit = handle(self.path)
